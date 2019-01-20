@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Easy There Entropy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 21:14:08 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ebuchman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Economic Organisms</title>
+      <link>https://ebuchman.github.io/posts/2019-01-20-economic-organisms/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/2019-01-20-economic-organisms/</guid>
+      <description>Life Socioeconomic systems may be conceived in the same vein as organisms: driven, replicated, non-equilibrium systems in a landscape of steady-states. Lifetimes and sustainability in such systems are parameterized by the capacity to represent and predict driving signals, and to use the energy contained in such signals to replicate successfully.
+Driving signals are the cycles of availability of input energy that drive systems out of equilibrium. Driven systems favour the formation of well-organized, low-entropy structures to the extent that they are better able than high-entropy forms to store, utilize, and ultimately dissipate input energy.</description>
+    </item>
     
     <item>
       <title>Bitcoin Turns 10</title>

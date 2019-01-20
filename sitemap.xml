@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ebuchman.github.io/posts/2019-01-20-economic-organisms/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ebuchman.github.io/posts/2019-01-03-bitcoin-turns-10/</loc>
     <lastmod>2019-01-03T21:14:08-05:00</lastmod>
   </url>
@@ -23,13 +28,13 @@
   
   <url>
     <loc>https://ebuchman.github.io/</loc>
-    <lastmod>2019-01-03T21:14:08-05:00</lastmod>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ebuchman.github.io/posts/</loc>
-    <lastmod>2019-01-03T21:14:08-05:00</lastmod>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
