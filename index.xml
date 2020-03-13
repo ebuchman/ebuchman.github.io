@@ -6,10 +6,19 @@
     <description>Recent content on Easy There Entropy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ebuchman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Happy 1st Birthday Cosmos!</title>
+      <link>https://ebuchman.github.io/posts/2020-03-13-happy-1st-birthday-cosmos/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/2020-03-13-happy-1st-birthday-cosmos/</guid>
+      <description>One whole year ago today, the Cosmos community made history with the successful decentralized launch of the Gaia blockchain, also known as the Cosmos Hub. After being &amp;ldquo;two months away&amp;rdquo; from launch for about 16 months, I can&amp;rsquo;t even begin to describe the joy of seeing our incredible community of validators launch Gaia into the world. I checked block explorers many times each day, in complete awe that this software we had spent years building was actually running in a production economic environment; that it was making blocks every ~6 seconds; that it hadn&amp;rsquo;t completely fallen over.</description>
+    </item>
     
     <item>
       <title>GCUOF</title>
