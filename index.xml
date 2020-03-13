@@ -75,5 +75,20 @@ The following more or less sum me up:
   &amp;ldquo;Human beings were invented by water as a device for transporting itself from one place to another.</description>
     </item>
     
+    <item>
+      <title>Recordings</title>
+      <link>https://ebuchman.github.io/recordings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/recordings/</guid>
+      <description>Podcasts 2019-09-06: Planetary Regeneration Podcast - Ethan Buchman
+2019-04-03: Epicenter - Cosmos – Launching the Internet of Blockchains 
+2018-03-26: Software Engineering Daily - Consensus Systems with Ethan Buchman
+2016-01-11: Epicenter Bitcoin - Tendermint - Private Modularized Blockchains
+Raps and Songs I rap as &amp;ldquo;Tanuki&amp;rdquo;. See the debut album and various performances on Github.
+Conferences 2019-05-06: Rebuild Conference - Stakeholders and Statemachines
+2018-07-12: Edcon Toronto - A Brief History of Distributed State</description>
+    </item>
+    
   </channel>
 </rss>

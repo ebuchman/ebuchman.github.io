@@ -49,6 +49,10 @@
   </url>
   
   <url>
+    <loc>https://ebuchman.github.io/recordings/</loc>
+  </url>
+  
+  <url>
     <loc>https://ebuchman.github.io/tags/</loc>
     <priority>0</priority>
   </url>
