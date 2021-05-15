@@ -6,10 +6,19 @@
     <description>Recent content on Easy There Entropy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ebuchman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Critique of MMT from a Monetary Localist</title>
+      <link>https://ebuchman.github.io/posts/mmt/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/mmt/</guid>
+      <description>MMT So it turns out, quite to my delight, there&amp;rsquo;s some interesting stuff in Modern Monetary Theory (MMT). For someone who believes that abuse of the money printer is the source of so much ill in society, this was somewhat surprising, if not terrifying, since MMT appears to be a licence to crank the printer to 11. And indeed, the current form of MMT is probably dangerous and incomplete. But even if somewhat misguided, MMT seems to be trying to refocus economics on an important set of ideas.</description>
+    </item>
     
     <item>
       <title>The Modest Mongolian</title>
@@ -80,12 +89,33 @@ Bitcoin and its ilk are pushing the boundaries of critical fields of study, from
     </item>
     
     <item>
+      <title></title>
+      <link>https://ebuchman.github.io/posts/corporate_structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/corporate_structure/</guid>
+      <description>Most tech companies are built using a kind of corporate structure that emphasizes shares, valuation, and upside: a venture backable Delaware C-Corp that will one day exit at many multiples of early investment valuations. This structure has spawned a growth-at-all-costs frenzy of capitalist euphoria, a tornado of financial mayhem, a fundamentally unsustainable enterprise that is tearing through our global socioeconomics, leaving gaping carcasses the likes of WeWork in its wake.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ebuchman.github.io/posts/mmt_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/mmt_notes/</guid>
+      <description>Many people are likely familiar with the idea of Universal Basic Income. But what people need in life isn&amp;rsquo;t just income, but responsibility and meaning. Hence,
+For me, this is probably the most important idea in MMT. For MMT, it&amp;rsquo;s apparently something of an after thought, a conclusion of the larger theory.
+. Which more or less sums up our difference of opinion. The book had very little to say about</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://ebuchman.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ebuchman.github.io/about/</guid>
       <description>I work in software, research, education, and the garden.
+CV
 The following more or less sum me up:
  &amp;ldquo;There is nothing in a caterpillar that tells you it&amp;rsquo;s going to be a butterfly.&amp;rdquo;
 - Buckminster Fuller
@@ -95,18 +125,46 @@ The following more or less sum me up:
     </item>
     
     <item>
-      <title>Recordings</title>
-      <link>https://ebuchman.github.io/recordings/</link>
+      <title>Financial Interests</title>
+      <link>https://ebuchman.github.io/investments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebuchman.github.io/recordings/</guid>
-      <description>Podcasts 2019-09-06: Planetary Regeneration Podcast - Ethan Buchman
+      <guid>https://ebuchman.github.io/investments/</guid>
+      <description>This is a record of my financial interests.
+As an angel investor, my primary focus is food security and sustainability. My secondary focus is fintech/legaltech.
+Some of the investments listed below are held through companies I control.
+My Companies These are companies I hold stock in as a founder or past/current employee.
+ Informal Systems Inc. - Verifiable Distributed Systems and Organizations Cephalopod Equipment Corp - Proof of Stake Validator All in Bits Inc.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://ebuchman.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/media/</guid>
+      <description>Podcasts 2020-10: Untold Stories - Reinventing Governance &amp;amp; Crypto Social Experiments
+2020-09: Fintech Impact - Cosmos with Ethan Buchman
+2020-06: Hashing it Out - Informal Systems with Ethan Buchman
+2020-06: Citizen Cosmos - Ethan Buchman, the now and then of Cosmos
+2019-09-06: Planetary Regeneration Podcast - Ethan Buchman
 2019-04-03: Epicenter - Cosmos – Launching the Internet of Blockchains 
-2018-03-26: Software Engineering Daily - Consensus Systems with Ethan Buchman
-2016-01-11: Epicenter Bitcoin - Tendermint - Private Modularized Blockchains
-Raps and Songs I rap as &amp;ldquo;Tanuki&amp;rdquo;. See the debut album and various performances on Github.
-Conferences 2019-05-06: Rebuild Conference - Stakeholders and Statemachines
-2018-07-12: Edcon Toronto - A Brief History of Distributed State</description>
+2018-03-26: Software Engineering Daily - Consensus Systems with Ethan Buchman</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://ebuchman.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/papers/</guid>
+      <description> Reflections on Metaphor and the Nature of Mind Cosmos: A Network of Blockchains The Latest Gossip on BFT Understanding Minimum Probability Flow for RBMs
+ Underfit
+ Bachelors Thesis
+ Masters Thesis
+ Butanol
+ other &amp;hellip; ?
+  </description>
     </item>
     
   </channel>
