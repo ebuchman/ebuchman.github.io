@@ -17,7 +17,8 @@
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ebuchman.github.io/posts/mmt/</guid>
-      <description>MMT So it turns out, quite to my delight, there&amp;rsquo;s some interesting stuff in Modern Monetary Theory (MMT). For someone who believes that abuse of the money printer is the source of so much ill in society, this was somewhat surprising, if not terrifying, since MMT appears to be a licence to crank the printer to 11. And indeed, the current form of MMT is probably dangerous and incomplete. But even if somewhat misguided, MMT seems to be trying to refocus economics on an important set of ideas.</description>
+      <description>Disclaimer: This critique is based almost entirely on a reading of Stephanie Kelton&amp;rsquo;s popularization of MMT, The Deficit Myth. I have yet to really dive into the MMT academic literature.
+MMT So it turns out, quite to my delight, there&amp;rsquo;s some interesting stuff in Modern Monetary Theory (MMT). For someone who believes that abuse of the money printer is the source of so much ill in society, this was somewhat surprising, if not terrifying, since MMT appears to be a licence to crank the printer to 11.</description>
     </item>
     
     <item>
@@ -86,6 +87,16 @@ Bitcoin and its ilk are pushing the boundaries of critical fields of study, from
       
       <guid>https://ebuchman.github.io/posts/2019-01-01-hello-world/</guid>
       <description>I love writing, and I want to commit to doing more of it. Once upon a time I had a good cadence going on Blogspot, and when that dropped off, I eventually picked up again on Wordpress. But it&amp;rsquo;s been a while. Now I plan to write in Vim and publish on Github while letting Hugo do the hard work of beautifying, unless you can convince me of something better.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ebuchman.github.io/posts/local-money-catalogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/local-money-catalogue/</guid>
+      <description>Local Money Systems As you may know, I&amp;rsquo;m quite enchanted with the idea of local money systems - moneys designed to facilitate local economic organization and trade. There&amp;rsquo;s a nice overview in Bernard Lietar&amp;rsquo;s Creating Wealth. I think they&amp;rsquo;re the best application of blockchain tech and the best hope for a sustainable civilization.
+Types of Local Money The simplest local money is custodial. You give $100 to some trusted local organization, and they give you 100 LOCAL in return.</description>
     </item>
     
   </channel>
