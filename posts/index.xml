@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Easy There Entropy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ebuchman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Local Money and Liquidity Saving</title>
+      <link>https://ebuchman.github.io/posts/local-money-liquidity-saving/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebuchman.github.io/posts/local-money-liquidity-saving/</guid>
+      <description>Local Money Systems As you may know, I&amp;rsquo;m quite enchanted with the idea of local money systems - moneys designed to facilitate local economic organization and trade. There&amp;rsquo;s a nice overview in Bernard Lietar&amp;rsquo;s Creating Wealth. I think they&amp;rsquo;re the best application of blockchain tech and the best hope for a sustainable civilization.
+I expect that progress in blockchain tech and tokenomic primitives (like bonding curves) will revolutionize the field of Optimum Currency Areas and paint a path towards a more sustainable theory of international monetary economics grounded in self-sufficient local economies.</description>
+    </item>
     
     <item>
       <title>Critique of MMT from a Monetary Localist</title>
@@ -87,16 +97,6 @@ Bitcoin and its ilk are pushing the boundaries of critical fields of study, from
       
       <guid>https://ebuchman.github.io/posts/2019-01-01-hello-world/</guid>
       <description>I love writing, and I want to commit to doing more of it. Once upon a time I had a good cadence going on Blogspot, and when that dropped off, I eventually picked up again on Wordpress. But it&amp;rsquo;s been a while. Now I plan to write in Vim and publish on Github while letting Hugo do the hard work of beautifying, unless you can convince me of something better.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ebuchman.github.io/posts/local-money-catalogue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebuchman.github.io/posts/local-money-catalogue/</guid>
-      <description>Local Money Systems As you may know, I&amp;rsquo;m quite enchanted with the idea of local money systems - moneys designed to facilitate local economic organization and trade. There&amp;rsquo;s a nice overview in Bernard Lietar&amp;rsquo;s Creating Wealth. I think they&amp;rsquo;re the best application of blockchain tech and the best hope for a sustainable civilization.
-Types of Local Money The simplest local money is custodial. You give $100 to some trusted local organization, and they give you 100 LOCAL in return.</description>
     </item>
     
   </channel>

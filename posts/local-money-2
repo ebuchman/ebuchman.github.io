@@ -1,0 +1,82 @@
+
+## Trust and Risk
+
+Monetary systems are a manifestation of a kind of trust between people.
+Money has its origins in tit-for-tat social exchanges - I do something for you
+today, you do something for me *in the future*. This is a kind of value storage. 
+I have to trust that you'll follow through, of couse, but by doing so I can reduce my 
+uncertainty about the future. These kinds of bilateral credit relationships are fundamental to the evolutionary 
+success of social mammals, like chimpanzees, and ultimately humans. 
+
+Money is a generalization and externalization of this kind of credit.
+It equips the credit function with a standard of value ("unit of account"),
+and enables it to be settled any time ("means of exchange").
+
+... substruycture matters ... ? ... what is the source of the trust
+relationship? what does it reflect about the world ? governance, stability,
+systemic risk. blockchins allow us to scale new systems. municipal currencies ? 
+MMT at level of Fed may be too big/dangerous. bring it down, achieve
+sustainabilitiy ("real productive capacity" ? ) 
+
+Liquidity savings provides better representation
+mutual credit is better than bank credit
+
+source of trust, source of risk ... 
+how to manage risk ? socialize it? heart of capitalism and anti-trust. rewards
+to match risk ? 
+
+how to bound growth ? 
+representing your boundaries - hurricane vs lotus
+
+
+
+
+
+free capital flows
+stable exchange
+monetary sovereignty
+
+
+
+
+
+
+## Currency Areas
+
+
+
+
+
+### Grassroots Economics
+
+[Grassroots Economics] is a non-profit in Kenya running a program called
+[Community Inclusion Currencies] that is a mix of mutual credit and custodial
+money but using bonding curve techniques. They have ~40,000 businesses in Kenya using the system to trade with
+eachother. It's built as a Solidity application, originally a fork of the
+[Bancor] bonding curve system. They were initially using the [POA] blockchain
+(an Ethereum sidechain) and it's xDAI stablecoin (basically just the [DAI]
+stablecoin from Ethereum moved over the bridge onto the POA chain) but even 
+just needing to pay for gas to move DAI from Ethereum to POA was too expensive
+so they moved to [Bloxberg], an Ethereum blockchain run by a consortium of
+universities.
+
+The founder of the project is [Will Ruddick]. He's been working on economic
+development in East Africa for over a decade. We've been following eachother for
+some time but had our first call the other week. Turns out he's working with
+Althea on deploying mesh nets in Kenya. He's working with the World Food Program
+and the Red Cross on the community currency projects, and they're even starting
+to run their own blockchain nodes. He has a vision of the humanitarian space
+evolving standards bodies and validators that better enable communtiy
+groups to come together and fund public work and social services.
+
+Grassroots was initially a training org that did a local currency
+project with printed vouchers. They eventually used some SQL database. Then
+moved to POA and Bancor. They're still evolving their tech stack and looking for
+something more long term maintainable. He's pretty interested in moving to
+Cosmos, and also in leveraging Rust.
+
+They have some pretty neat live data from the project
+[here](https://dashboard.sarafu.network/) and there's more documentation
+[here](https://gitlab.com/grassrootseconomics/cic-docs). I plan to go through
+this in more detail on Pi-Week and to try and play around with the app a bit.
+
