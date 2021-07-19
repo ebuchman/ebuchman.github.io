@@ -1,0 +1,400 @@
+diff --git a/content/posts/bitcoin.md b/content/posts/bitcoin.md
+index 33490f8..077fc22 100644
+--- a/content/posts/bitcoin.md
++++ b/content/posts/bitcoin.md
+@@ -1,16 +1,22 @@
+-# Orange is the new Green
++---
++title: "Orange is the new Green"
++date: 2021-07-10
++draft: false
++---
+ 
+-About a month ago Tesla purchased $1.5B worth of BTC to hold on its balance
++Earlier this year, Tesla purchased $1.5B worth of BTC to hold on its balance
+ sheet. This seems to have made a lot of people angry, or at least
+-confused. Tesla, a bastion of our clean energy future, is helping us transition
++confused, including Elon Musk himself.
++Tesla, a bastion of our clean energy future, is helping us transition
+ from fossil fuels to electricity.
+ Bitcoin, a speculative digital asset, is using more energy 
+ than Switzerland and is largely powered by Chinese coal. 
+ What gives?
+ 
+-At the time, I tweeted that Bitcoin is actually better for the environment than
+-Tesla. On the surface, this seems absurd. But our world and socioeconomy is a complex and
+-dynamic place. Our environmental impact can't be denominated purely in carbon
++At the time, I suggested that Bitcoin might actually be better for the
++environment than Tesla. On the surface, this seems absurd. 
++But our world and socioeconomy is a complex and
++dynamic place. Our environmental impact cannot be denominated purely in carbon
+ emissions. Yes, we need cleaner sources of energy. Obviously. But our economy
+ is also grounded in obscene assumptions about indefinite exponential growth on a
+ finite planet. Simply adopting a cleaner source of energy doesn't actually
+@@ -22,12 +28,13 @@ helping bring about those changes. Bitcoin might be.
+ 
+ ## Green Tech
+ 
+-Tesla helps further entrench a number of existing problems in the world.
++Tesla helps entrench and exacerbate a number of existing problems in the world.
+ 
+-One is American capitalism itself. Sure, capitalism has a lot of good ideas, and
+-America's done some good in the world, but the modern incarnation of military-industrial 
+-American consumerism is not particularly nurturing for a sustainable future. 
+-Tesla is American capitalism's best foot forward.
++One is American capitalism itself. There are obviously good ideas at the heart
++of American capitalism, about entrepreneurship and the power of mutually
++beneficial exchange to drive progress. But the modern incarnation of military-industrial,
++monopolistic, American consumerism is not particularly nurturing for a sustainable future. 
++Tesla is perhaps the peak of American capitalism's splendor.
+ 
+ Two is the supply chain of modern technology.
+ The mining industry, for metals like Lithium, Coltan, and more,
+@@ -39,24 +46,19 @@ Clean energy has a very dirty supply chain, and little incentive to improve it.
+ 
+ Third is cars themselves. The complete centrality of cars in the
+ organization of urban life is one of the great tragedies
+-of our time. 
+-
+-TODO tweet cars
+-
+-The sustainability story is intimately bound up with how we organize ourselves
++of our time. Sustainability is intimately bound up with how we organize ourselves
+ on the surface of the planet. Cars, electric or otherwise, are not
+ particularly conducive to the more human-scale and bio-diverse patterns that are 
+ critical to sustainability. To the extent we have cars they should probably be electric. 
+ But more than anything, we need less cars. Denmark has the right idea. As does
+ everyone who's ever gotten a street closed to cars, for any duration. Respect.
+ 
+-Now I'm not trying to diss Tesla. I own the stock and have been spotted hailing
+-the Technoking.
++Now I'm not trying to diss Tesla, per se. 
+ Tesla is the beacon of a research and development process that is itself critical to
+ sustainability. And if we want to make progress in batteries, which we should, cars are a great
+ way to go. But the fundamental problems we're facing today don't seem so much technical as they
+-do political economic. R&D in capitalist companies with dirty supply chains
+-feeding conspicuous consumerism is probably not really going to help us there.
++do political economic. More R&D in capitalist companies with dirty supply chains
++feeding conspicuous consumerism can only help so much.
+ 
+ ## Orange Money
+ 
+@@ -67,29 +69,42 @@ extreme amount of energy. But as far as agents of structural institutional
+ change at the global level for a more sustainable civilization go? Bitcoin might 
+ be the best thing we've ever seen.
+ 
+-TODO: ackndowledge more bad stuff
+-
+ That's a pretty bold statement. And I don't expect to fully convince you here. 
+-I merely intend to suggest that it's worth seriously thinking about. Bitcoin is
++I merely intend to suggest that it's worth thinking about. Bitcoin is
+ taking its seat at the table of international monetary institutions.
+-Bitcoin's market cap (~$1T) is almost as much as silver's (~$1.3T), a tenth
+-of gold's, and a 20th of the US M2 money supply. But Bitcoin isn't a precious metal. 
+-And it's not something produced by a company, nor a government, 
+-nor really any distinctly identifiable organization.
++Its market capitalization today (~$0.65T), is larger than *every one* of the major American
++banks and payments companies. It's also larger than most of the world's national
++currencies. It's even become legal tender in El Salvador, and is under
++consideration by a number of other South American countries.
+ 
++But Bitcoin isn't a precious metal. And it's not something produced by a company, nor a government, 
++nor really any distinctly identifiable organization.
+ Bitcoin is a collective. An open-source, verifiable, transparent, decentralized, 
+ collective hosting a store of value and a medium of exchange for all to use on
+ equal terms without discrimination. It sounds exactly like the kind of thing
+ sustainable human institutions are made of.
+ 
+-Monetary institutions are not static. They evolve considerably. And they have 
+-profound effects on the economic structure of society. 
+-Many of the problems of sustainability can be tied back to the institutions of money. 
++In this sense, Bitcoin is a fledgling monetary institution. This is not to say
++that it will or must necessarily become money for the whole world. But it is
++beginning to fulfill some meaningful functions of money in certain growing
++contexts - it's being increasingly used to pay salaries, to make international payments, and 
++as a highly liquid (though volatile) reserve asset on corporate balance sheets.
++Of course it's also being used increasingly in ransomware payments, where 
++it is helping to tragically illuminate the pervasive insecurity and fragility of the systems underlying our critical
++infrastructure.
++
++Like any monetary institution, Bitcoin is designed to nurture a kind of *trust*
++among the society it serves, but it does so in a very different way from the
++monetary institutions of the nation states. 
++Many of the problems we face today, of inequality and sustainability, can be traced back to the institutions of money. 
+ How is money created? Who is it distributed to? What is it distributed
+-for? Modern institutions have brought about an enormous decoupling between finance 
++for? Modern institutions of money have become enormously extractive and rent-seeking. 
++They have brought about a tectonic decoupling between financial activity
+ and the real socioeconomic activity of the human and natural world. 
+-Modern finance is notorious for inherent instability and fragility, 
+-and for fuelling the fire of unsustainable consumerism and speculation.
++Modern finance is notorious for its inherent instability and fragility,
++for fuelling unsustainable speculative fires, for exacerbating income inequality.
++The monetary institutions of the nation states are intimately bound up in the mayhem 
++wrought by the global financial system - they have thus dramatically betrayed the trust of the societies they serve.
+ 
+ Bitcoin is the first, and so far most credible, attempt to challenge the current
+ paradigm, to meaningfully innovate internationally in the basic values of money.
+@@ -100,167 +115,125 @@ one of the most fundamental physical processes underlying our civilization.
+ ## Mining for Trust
+ 
+ Bitcoin are created and issued to those who provably contribute to
+-the security of the Bitcoin network via Proof-of-Work mining. If
++the security of the Bitcoin network via Proof-of-Work (PoW) mining.
++Proof-of-Work entails a specific kind of cryptographic computation resembling
++a numerical puzzle that is difficult to solve but easy to verify. If
+ computing power were evenly distributed throughout humanity (which of course
+-it's not and could never be), Bitcoin would be a sort of Universal Basic Job, 
+-providing income to anyone who ran the Bitcoin miner. 
++it's not and could never be), Bitcoin's Proof-of-Work mining would be a sort of Universal Basic Job, 
++providing income to anyone who ran the Bitcoin mining algorithm. 
+ The energy used would be stable and proportional to human population. 
+ 
+ Of course in the real world, Bitcoin mining is a highly specialized economic
+ game played out in transistor sizes and electricity sources. 
+-Smaller, faster chips; cheaper, denser energy. Mining gravitates to the cheapest sources of
+-electricity. On the one hand, it's coal plants in China. But on the other, it's
+-renewables all over the world. While the current ratio might lean towards dirty
+-energy and the Chinese, it is by no means static. Demand for cleaner mining
+-operations and more distributed chip production is apparent and growing. 
+-
+-Bitcoin has become the world's largest supercomputer, 
+-more powerful than all the other supercomputers combined, though it's computing only a single rather simple
++Smaller, faster chips; cheaper, denser energy. 
++
++
++Bitcoin mining gravitates to the cheapest sources of
++electricity. On the one hand, that's been coal plants in China. But on the other, it's
++renewable energy all over the world. According to recent surveys, more than half of all the mining companies
++are using renewable energy, though a majority of the mining power is still driven largely by
++Chinese coal. But these distributions are by no means static. We're witnessing today the migration of huge amounts of mining
++activity out of China by virtue of the recent mining bans. Demand for cleaner mining
++operations is apparent and growing. Further, Bitcoin mining may actually have
++the potential to *improve the viability* of renewable energy projects themselves. Solar and wind energy 
++production is notoriously variable, and it can be difficult to match demand and
++supply, a problem imperiling the viability of many renewable energy projects. By
++by functioning as a sort of "battery" that can store excess energy as financial value, Bitcoin
++mining can be used by renewable energy producers to smooth out these
++fluctuations, making an otherwise costly mismatch of demand and supply
++potentially profitable.
++
++As for Bitcoin mining devices, they may be simpler and require less extractive resources than batteries and general computers, 
++but their turnover is massive, as new, more efficient mining hardware hits the market, 
++and the state of recycling old devices is quite poor. 
++But there is reason to be optimistic, especially as Bitcoin mining devices
++are pushing up against the physical boundaries of computation - at some point it
++will not be possible to make more efficient devices without a breakthrough in
++physics and computer engineering. In any case, by grounding itself in the most
++raw expression of computing capability, Bitcoin may help incentivize the decentralization of 
++computer chip manufacturing in general, the importance of which is being made increasingly apparent
++by the COVID induced chip shortage, which is causing all kinds of dislocations
++in the supply chain.
++
++For years now, the Bitcoin mining network has been the world's largest supercomputer,
++more powerful than all the other supercomputers combined, though it is computing only a single rather simple
+ function with seemingly little practical value. 
+-
+-So what do we even get for all this seemingly wasted electricity? 
+-We call it *thermodynamic immutability*. 
++So what do we even get for all this seemingly wasted electricity? What does
++Proof-of-Work mining really provide?
++We've already alluded to a kind of *trust* that this process produces.
++We may call this form of trust *thermodynamic immutability*. 
+ It means that the integrity of the historical record, 
+-it's immutability, is not guaranteed by social consensus but by the thermodynamics of the universe.
+-The principle of social consensus is perhaps best exemplified in the 
+-adage that history is written by the victors. But Bitcoin provides a historical record 
+-that is written by miners and can't be re-written without doing as much work as the original miners did.
+-
+-This is not to say that social consensus isn't involved in Bitcoin or that
+-Bitcoin is just math. Bitcoin is an evidently political economic institution
+-with many sources of trust. But the pumping heart of the Bitcoin network is a
+-thermodynamic process that provides a kind of guarantee about history that we
++(i.e. it's immutability) is guaranteed by the thermodynamics of the universe,
++rather than the whims of politics.
++
++It is often said, in a kind of defeatest resignation to the pities of politics, 
++that history is written by the victors.
++But while victory has traditionally been available only to those that demonstrate their superiority in war and conquest,
++Bitcoin provides a form of victory that is at once accessible to all, a victory
++not defined by disciminatory political might, but by a verifiable,
++thermodynamic process. And as Bitcoin marches on, the *cost* of re-writing the
++Bitcoin history increases in proportion to the amount of computing power already spent.
++For this reason we talk about Proof-of-Work mining as providing a kind of security.
++Some call this kind of security "cryptoeconomic", in reference to the mix of
++cryptographic and economic guarantees it provides.
++
++This is not to say social consensus and politics are not involved in Bitcoin or that
++Bitcoin is just math and physics. Bitcoin is an evidently political economic institution
++with many sources of trust. But the pumping heart of the Bitcoin network, it's
++Proof-of-Work, is a thermodynamic process that provides a kind of guarantee about history that we
+ *do not otherwise know how to produce*. What we get from mining is the most
+ advanced and robust source of trust for international agreement that we've ever
+ had. This may prove to be especially important in the coming years amidst what
+ appears to be increasingly turbulent geopolitical relations. International
+ sources of agreement are in short supply.
+ 
+-I like to argue that saying Bitcoin is wasteful is like saying the Sun is
+-wasteful. Look at how much energy the Sun wastes in exchange for the guarantee
+-it provides that every day humans will wake up to sunlight. My intuitions
+-suggest Bitcoin can play the kind of role in the emerging digital ecosystem that
+-the Sun plays for life on our planet.
++I like to argue that saying Bitcoin is wasteful is a bit like saying the Sun is
++wasteful. Look at how much energy the Sun wastes, and for what?! Of course the sun
++provides a certain kind of guarantee to biological activity on Earth, a robust foundation 
++for the development of all the world's ecosystems. I suggest to you that
++Bitcoin, and the guarantees it provides, might play the same kind of role in our
++evolving digital ecosystem that the Sun plays for life on our planet.
+ 
+ ## Big Bad Blockchains
+ 
+-But does every blockchain need to use Proof of Work like Bitcoin?
+-Absolutely not. They definitely shouldn't. There's little justification for 
+-more than a few Proof of Work blockchains, if not just one.
+-
+-In fact, I've spent much of the last seven years (along with many other talented people) developing and promoting 
+-an energy efficient alternative to Proof of Work called Proof of Stake.
+-To a large extent, this is what the Tendermint and Cosmos projects have been
+-about. And we've largely succeeded. Pretty much all major blockchains being built today use Proof of Stake instead
+-of Proof of Work, and thus do away with mining and the ridiculous energy
+-expenditure. There's no real excuse for any new blockchain to use mining.
+-Even Ethereum, which currently uses Proof of Work and is second only to Bitcoin, 
+-has begun its transition to Proof of Stake. Danny Ryan, a lead Ethereum
+-researcher, explains in detail in this podcast.
+-
+-But as powerful as Proof of Stake is, it will never be able to provide the same
+-guarantees provided by Proof of Work, no matter how close it thinks it can
+-approximate them for practical purposes. And thus while Proof of Stake is
+-unequivocably the future of blockchains, Bitcoin's Proof of Work is not to be
+-dismissed so quickly.
+-
+-
+-
+-
+-
+-
+-----------
+-
+-https://twitter.com/naval/status/1380990577727008772 - buying bitcoin more
+-voting than investing
+-https://digiconomist.net/bitcoin-energy-consumption#comparison
+-https://www.cell.com/joule/fulltext/S2542-4351(19)30087-X
+-
+-
+-- PoW
+-- first mover
+-- creed of saving
+-- simple
+-- bitcoin battery for renewables
+-
+-But the question remains, in a world where Proof of Stake is widely available as
+-an energy efficient alternative, should mining based Bitcoin continue to exist? 
+-
+-Sometime in 2016 I wrote a proposal for Bitcoin to adopt Proof of Stake. It was
+-a bit facetious, but we've been arguing for the better part of a decade now
+-about all the reasons mining is bad and Proof of Stake is better. Not that the
+-Bitcoin community would agree. And I don't blame them. When it comes to Bitcoin
+-itself, I actually don't agree either. Bitcoin's Proof of Work mechanism
+-actually provides something to the  world that we otherwise don't know how to
+-achieve. Not even Proof of Stake can provide it, even though we like to pretend
+-it can approximate pretty closely for all practical purposes. But Bitcoin isn't
+-concerned with practical purposes. Bitcoin  ...
+-
+-
+-
+-
+-Bitcoin mining can actually help make renewable energy sources more viable by
+-serving as a sort of financial battery. Solar energy setups 
+-require batteries to store surplus energy produced during
+-the day, and are limitted by the battery in what they can power 
+-at night or when it's cloudy. Once you've hit the limits of your battery,
+-instead of disipating the surplus, you can use it to mine Bitcoin, 
+-and store the value as financial energy
+-that can be used to purchase electricity later.
+-
+-Bitcoin is an attempt to ground an economic system in the physical world.
+-It's by no means perfect, but it speaks to something fundamental, namely, the
+-distribution of computing power and energy production among humans. 
+-
+-
+-
+-
+-
+-that more directly represents the values of communities.
+-
+-Ok, you say, that's great, much respect to Bitcoin's innovation. But now that
+-the cats out of the bag, surely we don't need to keep wasting exorbitant amounts
+-of energy. Can't we just stop mining Bitcoin and move on with the rest of the
+-monetary revolution?
+-
+-
+-Proving the viability of alternative forms of money in the
+-world, namely money that represents the values of a community rather than the
+-liabilities of an unaccountable banking system, is perhaps the most important
+-legacy of Bitcoin, and is argu
+-
+-Now, I hold no pretense that Bitcoin will take over the world. I'm not even
+-sure what that would mean or that it would be a good idea. But Bitcoin has
+-unleashed, and proven the viability of, arguably the most important idea in political economics
+-in centuries - that money should be created by and for the people that use it.
+-
++Many people have heard the phrase "blockchains, not Bitcoin", 
++meant to express that blockchain technology is a meaningful innovation,
++but Bitcoin can be largely ignored. Of course we don't believe Bitcoin can or
++should be ignored. But it is also true, contrary to what many so-called "Bitcoin
++Maximalists" might avow, that blockchains really are a meaningful
++innovation, particularly in the field of fault-tolerant multi-stakeholder databases
++and applications, which are themselvess becoming increasingly important as 
++wrestle with the monopoly power of large corporations and the administrative
++overhead of more democratic institutions. We should thus look forward to a proliferation of blockchains, 
++perhaps on the order of the number of cities, or even the number of companies in
++the world, as a foundation for platforms that better represent and serve their stakeholders.
+ 
+-provides a trajectory for money to be based not on the liabilities of
+-largely unacountable banking system, 
++But does every blockchain need to use Proof-of-Work mining like Bitcoin?
++Absolutely not! In fact, there is little justification for 
++more than a few Proof of Work blockchains, if not just the one.
++I've spent much of the last seven years (along with many other talented people) developing and promoting 
++an energy efficient alternative to Proof-of-Work mining called Proof-of-Stake
++validation. To a large extent, this is what the Tendermint and Cosmos projects have been
++about. And we've largely succeeded. Pretty much all major blockchains being built today use Proof-of-Stake validators instead
++of Proof-of-Work miners, and thus do away with mining and the ridiculous energy
++expenditure therein. There's no real excuse for any new blockchain to use mining.
++Even Ethereum, which currently uses Proof-of-Work mining and is second only to Bitcoin, 
++has begun its transition to Proof of Stake. 
+ 
+-Bitcoin are issued when anyone provably contributes energy
+-to securing the network.
++But as powerful as Proof-of-Stake is, it will never be able to provide the same
++guarantees provided by Proof-of-Work, no matter how close it thinks it can
++approximate them for practical purposes. And thus while Proof-of-Stake is
++unequivocally the future of blockchains, Bitcoin's Proof-of-Work, and Bitcoin
++itself, is not to be dismissed so quickly. 
+ 
+-Bitcoin are issued when someone provably does some work. Useless work, to be
+-sure, but they did it and they proved it, nonetheless.
++Monetary institutions are not static. 
+ 
+ 
++As our monetary institutions evolve,
++Bitcoin applies a kind of pressure
+ 
+-## 
+ 
+-By all accounts, Bitcoin was supposed to be impossible. It was a joke. It couldn't
+-possibly work. Silly nerds, obsessing over open-source, verifiability,
+-transparency, decenentralization, and privacy. 
+ 
+-----
+ 
+-On the one hand, Elon is worshipped as the beacon of capitalism, 
+-of the power of the entrepreneur to change the world. And perhaps rightly so.
+-But on the other, what if the capitalist foundation is itself borked? 
+-What if what we need wasn't cleaner energy cars, but less cars altogether?
+ 
+-I'm not sure it's possible to settle the debate once and for
+-all, and I'm happy with my personal biases, but people are starting to ask me
+-how I reconcile Bitcoin's gargantuan energy use with my general
+-environmentalism, so I thought I'd sketch some thoughts. 
+ 
